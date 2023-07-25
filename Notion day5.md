@@ -4,7 +4,7 @@
 
 - 安裝Visual Studio Code
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/90d20831-3a0c-4124-89b3-6f5e97338a75/Untitled.png)
+![Untitled](https://i.imgur.com/rZbqCKn.png)
 
 切換主題Ctrl+K+T
 
@@ -18,7 +18,7 @@
 
 ## 新增掛件
 
-![註解 2023-07-25 092913.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cc79f42a-5c0b-4da6-bcae-b68c1e315df4/%E8%A8%BB%E8%A7%A3_2023-07-25_092913.png)
+![註解 2023-07-25 092913.png](https://i.imgur.com/gsqSZZv.png)
 
 ## Jupyter
 
