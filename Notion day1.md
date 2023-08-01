@@ -9,4 +9,4 @@
 - Python藝術創作：ColabTurtle
 
 ## 實作✔️
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4d213af3-3ddc-4881-940b-eb3bc56ce535/Untitled.png)
+[![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4d213af3-3ddc-4881-940b-eb3bc56ce535/Untitled.png)](https://i.imgur.com/nQpf1vM.png)https://i.imgur.com/nQpf1vM.png
