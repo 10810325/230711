@@ -8,6 +8,7 @@ VS Code寫Python的常用插件
 List
 import matplotlib.pyplot as plt
 plt.plot([1,2,3,4])
+
 ​![Untitled](https://i.imgur.com/uxOi7ZI.png)
 
 Numpy
@@ -20,6 +21,7 @@ plt.xlabel("x axis caption")
 plt.ylabel("y axis caption")
 plt.plot(x,y)
 plt.show()
+
 ​![Untitled](https://i.imgur.com/5poXWqa.png)
 
 import numpy as np
@@ -31,11 +33,13 @@ plt.xlabel("x axis caption")
 plt.ylabel("y axis caption")
 plt.plot(x)
 plt.plot(y)
+
 ​![Untitled](https://i.imgur.com/1xw5Aly.png)
 
 Pandas
 import pandas as pd
 series = pd.Series(y)
 series.plot()
+
 ​![Untitled](https://i.imgur.com/m1PsoLf.png)
 
