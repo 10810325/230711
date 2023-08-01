@@ -7,4 +7,4 @@
 - 本機版Python IDE：Spyder
 
 ## 實作✔️
-https://i.imgur.com/vOV4kBw.png
+[![Untitled](https://i.imgur.com/vOV4kBw.png)
