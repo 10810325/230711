@@ -6,6 +6,7 @@ VS Code寫Python的常用插件
 ![Untitled](https://i.imgur.com/cWAj2GX.png)
 
 List
+
 import matplotlib.pyplot as plt
 plt.plot([1,2,3,4])
 
